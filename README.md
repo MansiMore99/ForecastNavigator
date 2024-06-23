@@ -1,6 +1,6 @@
 ## Professional-Weather-Application 🌤️
 
-When planning outings, knowing the weather forecast is essential to ensure you are well-prepared. Whether it's avoiding rain without an umbrella or dressing appropriately for the conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
+When planning outings, knowing the weather forecast is essential to ensure you are well-prepared. Whether it's avoiding rain 🌧️ or wind 💨 without an umbrella, or dressing appropriately for sunny 🌤️ conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
 
 ## Key Features
 
