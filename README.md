@@ -72,9 +72,9 @@ python manage.py runserver
 
 ## What You'll Learn
 
-🌐 Utilizing weather APIs to fetch live weather data.
-🎨 Creating an interactive and visually pleasing user interface.
-🌍 Implementing location detection for personalized weather forecasts.
+* Utilizing weather APIs to fetch live weather data 🌐
+* Creating an interactive and visually pleasing user interface 🎨 
+* Implementing location detection for personalized weather forecasts 🌍 
 
 ## Project Structure:
 
