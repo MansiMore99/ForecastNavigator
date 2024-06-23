@@ -4,10 +4,10 @@ When planning outings, knowing the weather forecast is essential to ensure you a
 
 ## Key Features
 
-📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
-🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
-📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
-🔍 Search Weather Forecast for 2 Locations: Plan your outings better by checking weather conditions for both your base and destination locations.
+* 📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
+* 🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
+* 📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
+* 🔍 Search Weather Forecast for 2 Locations: Plan your outings better by checking weather conditions for both your base and destination locations.
 
 ## Getting Started:
 
