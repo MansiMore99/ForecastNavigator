@@ -97,7 +97,7 @@ weather_project
               |___ index.html
               |___ city_weather.html
      |___ Static
-          |___ backgrounf.jpeg
+          |___ background.jpeg
           |___ style.css
 |___ weather_project
      |___ settings.py
