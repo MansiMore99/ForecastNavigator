@@ -107,8 +107,22 @@ weather_project
 ```
 
 
-<p>Learn to code for free and get a developer job: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a></p>
-<p>Read hundreds of articles on programming: <a href="https://medium.freecodecamp.org" target="_blank">freeCodeCamp Medium</a></p>
+* <p>Learn to code for free and get a developer job: <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a> 🚀</p>
+* <p>Read hundreds of articles on programming: <a href="https://medium.freecodecamp.org" target="_blank">freeCodeCamp Medium</a> 📚</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Let's embark on this exciting weather app creation journey together! Get ready to merge weather data with stunning visuals and create an exceptional user experience. Happy coding! 🚀
