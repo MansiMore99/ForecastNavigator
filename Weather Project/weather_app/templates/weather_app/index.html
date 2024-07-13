@@ -1,0 +1,71 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <style>
+        body {
+            background-image: url("{% static background %}");
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<h2>OurDate Weather App</h2>
+
+{% if error_message %}
+    <p>{{ error_message }}</p>
+{% else %}
+    <form method="post">
+        {% csrf_token %}
+        <div class="city-container">
+            <input type="text" name="city" placeholder="Enter city" style="width: 200px; padding: 5px; font-size: 14px;">
+            <input type="date" name="date" style="padding: 5px; font-size: 14px;">
+            <input type="time" name="time" style="padding: 5px; font-size: 14px;">
+            <button type="submit" style="padding: 5px 10px; font-size: 14px;">Get Weather</button>
+        </div>
+    </form>
+
+    {% if not forecast and not alerts %}
+        <div class="welcome-message">
+            <p>Welcome to the OurDate Weather Department, how can we help you?</p>
+        </div>
+    {% endif %}
+
+    {% if forecast %}
+        <div class="forecast-info">
+            <h3>Forecast for {{ forecast.city }} on {{ forecast.date }} at {{ forecast.time }}</h3>
+            {% if forecast.weather %}
+                <p>{{ forecast.weather.min_temp }}°F to {{ forecast.weather.max_temp }}°F - {{ forecast.weather.description }}</p>
+                <p>{{ forecast.weather.message }}</p>
+                <img src="http://openweathermap.org/img/w/{{ forecast.weather.icon }}.png" alt="{{ forecast.weather.description }}">
+            {% else %}
+                <p>No forecast data available for the selected date and time.</p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+    {% if alerts %}
+        <div class="alerts-container">
+            <h3>Weather Alerts for {{ forecast.city }} on {{ forecast.date }}</h3>
+            <ul>
+                {% for alert in alerts %}
+                    <li>{{ alert }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+{% endif %}
+
+</body>
+</html>
