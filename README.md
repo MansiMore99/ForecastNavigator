@@ -1,14 +1,12 @@
 ## Professional-Weather-Application 🌤️
 
-When planning outings, knowing the weather forecast is essential to ensure you are well-prepared. Whether it's avoiding rain 🌧️ or wind 💨 without an umbrella, or dressing appropriately for sunny 🌤️ conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
+Knowing the weather forecast is essential to ensure you are well-prepared when planning outings. Whether it's avoiding rain 🌧️ or wind 💨 without an umbrella, or dressing appropriately for sunny 🌤️ conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
 
 ## Key Features
 
 * 📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
-* 🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
+* 🖥️ Intuitive User Interface: Design a user-friendly interface that breezes weather exploration.
 * 📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
-* 🔍 Search Weather Forecast for 2 Locations: Plan your outings better by checking weather conditions for both your base and destination locations.
-
 ## Getting Started:
 
 Follow the steps below to set up and run the project locally:
