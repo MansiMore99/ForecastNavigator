@@ -1,4 +1,4 @@
-## Professional-Weather-Application 🌤️
+## ForecastNavigator_Professional_Weather_Application 🌤️
 
 Knowing the weather forecast is essential to ensure you are well-prepared when planning outings. Whether it's avoiding rain 🌧️ or wind 💨 without an umbrella, or dressing appropriately for sunny 🌤️ conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
 
