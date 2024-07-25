@@ -5,10 +5,10 @@ Knowing the weather forecast is essential to ensure you are well-prepared when p
 
 ## Key Features
 
-📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
-📅 Date & Time Specific Forecasts: Search weather forecasts for specific dates and times.
-🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
-📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
+* 📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
+* 📅 Date & Time Specific Forecasts: Search weather forecasts for specific dates and times.
+* 🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
+* 📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
 
 ## Getting Started:
 
