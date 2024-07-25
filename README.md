@@ -2,11 +2,14 @@
 
 Knowing the weather forecast is essential to ensure you are well-prepared when planning outings. Whether it's avoiding rain 🌧️ or wind 💨 without an umbrella, or dressing appropriately for sunny 🌤️ conditions, weather information enhances your experience and minimizes weather-related surprises. 🌂👗
 
+
 ## Key Features
 
-* 📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
-* 🖥️ Intuitive User Interface: Design a user-friendly interface that breezes weather exploration.
-* 📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
+📊 Real-time Weather Data: Fetch and display up-to-date weather information for various cities.
+📅 Date & Time Specific Forecasts: Search weather forecasts for specific dates and times.
+🖥️ Intuitive User Interface: Design a user-friendly interface that makes weather exploration a breeze.
+📍 Location-based Forecast: Provide accurate forecasts based on the user's selected city.
+
 ## Getting Started:
 
 Follow the steps below to set up and run the project locally:
@@ -71,8 +74,9 @@ python manage.py runserver
 ## What You'll Learn
 
 * Utilizing weather APIs to fetch live weather data 🌐
-* Creating an interactive and visually pleasing user interface 🎨 
-* Implementing location detection for personalized weather forecasts 🌍 
+* Creating an interactive and visually pleasing user interface 🎨
+* Implementing location detection for personalized weather forecasts 🌍
+* Searching and displaying weather forecasts for specific dates and times 📅
 
 ## Project Structure:
 
